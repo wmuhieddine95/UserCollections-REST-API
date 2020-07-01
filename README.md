@@ -1,5 +1,5 @@
 # UserCollections-REST-API
-Client Server Project using Nodejs, GraphQL and ReactNative connected to MongoDB by mongoose with CRUD features.
+Client Server Project using Nodejs, GraphQL and React.Js connected to MongoDB by mongoose with CRUD features.
 ## Project Topology:
   a) FrontEnd:
   -> Client Side = React
